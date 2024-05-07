@@ -33,7 +33,7 @@ export const DetailsPage = () => {
         return <div>no value</div>
     }
     return (
-        <div className=" details-page">
+        <div>
             <div className="header-container table-header-container ">
                 <IconButton aria-label="delete" onClick={() => { navigate('/') }}>
                     <ArrowBackIcon />

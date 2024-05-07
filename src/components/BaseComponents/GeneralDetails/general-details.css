@@ -1,7 +1,6 @@
 .details-container {
     display: flex;
     flex-direction: column;
-    width: 100%;
     row-gap: 24px;
     font-size: 1em;
     padding: 20px;
