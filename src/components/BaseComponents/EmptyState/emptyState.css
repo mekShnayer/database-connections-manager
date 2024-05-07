@@ -1,0 +1,8 @@
+.emptyState-container {
+    border: solid 1px #dedfdf;
+    border-radius: 16px;
+    width: 100%;
+    padding: 20px;
+    margin: 20px 0;
+    color: #626060;
+}

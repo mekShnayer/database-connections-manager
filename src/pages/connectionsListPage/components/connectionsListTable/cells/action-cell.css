@@ -1,0 +1,20 @@
+.action-options-continer {
+    position: absolute;
+    z-index: 1;
+    background: #f8f9fa;
+    border-radius: 8px;
+    right: 8%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    color: black;
+    padding: 0 16px;
+    align-items: flex-start;
+
+}
+
+.action-cell-option {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
