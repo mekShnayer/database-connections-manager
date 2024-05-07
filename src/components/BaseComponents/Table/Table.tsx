@@ -31,7 +31,7 @@ export const Table: React.FC<CustomTableProps> = (props) => {
     return (
         <div style={{ height, width, ...containerStyle }}>
             <div className='table-header-container'>
-                {title && <h3>{title}</h3>}
+                {title && <h2>{title}</h2>}
                 {editDataDialogContent && editDataDialogContent}
             </div>
             <DataGrid
