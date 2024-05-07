@@ -27,7 +27,7 @@ export const AddConnectionDialog: React.FC<AddConnectionDialogProps> = ({ button
                 minWidth: 0,
                 borderRadius: "50%"
             }}
-            dialogText="To add another databae connection please fill in this form."
+            dialogText="To add another database connection please fill in this form."
             fields={connectionsFormFields} />
     )
 }
